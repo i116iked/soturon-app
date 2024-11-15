@@ -1,0 +1,13 @@
+# CUDA関連ファイルを除外
+*.deb
+
+# Node.jsの依存ファイルを除外
+node_modules/
+
+# 一時Gitファイルを除外
+.git/objects/pack/tmp_pack_*
+
+# その他キャッシュやログ
+*.log
+
+cuda-samples/

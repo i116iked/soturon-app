@@ -1,0 +1,4 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+apt.repos.intel.com	0	0	1730983576	31536000
